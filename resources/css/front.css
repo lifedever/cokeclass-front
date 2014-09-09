@@ -1,0 +1,10 @@
+.banner {
+    background: url('../img/app/beijing_r2_c1.jpg') repeat fixed;
+    height: 350px;
+    text-align: center;
+    margin-top: -20px;
+}
+
+.banner img {
+    height: 350px;
+}

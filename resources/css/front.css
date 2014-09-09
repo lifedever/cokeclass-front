@@ -67,3 +67,47 @@ fieldset div.banner-signup {
     float: right;
     box-shadow: 0px 0px 10px #000;
 }
+
+.content{
+    margin-top: 30px;
+    height: 280px;
+    border-bottom: 1px solid lightgray;
+}
+
+.content a{
+    color: gray;
+}
+
+.content h4{
+    font-weight: bold;
+}
+
+
+
+.content-more{
+    height: 340px;
+}
+
+.content-1{
+    float: left;
+    width: 40%;
+}
+
+.content-2{
+    float: left;
+    width: 30%;
+}
+
+desc{
+    margin-left: 52px;
+    font-size: 10px;
+    color: gray;
+}
+.content-3{
+    float: left;
+    width: 30%;
+}
+.p-title{
+    color: #313131;
+    font-weight: bold;
+}

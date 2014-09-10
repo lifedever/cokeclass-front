@@ -4093,10 +4093,11 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .navbar-default {
     height: 80px;
-    box-shadow:0px 0px 7px #000;
     background-color: #ffffff;
     border-color: #ffffff;
 }
+
+
 .navbar-default .navbar-brand {
     color: #777;
 }

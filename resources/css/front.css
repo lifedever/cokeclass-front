@@ -232,3 +232,20 @@ a.link-more {
 .footer-menu p a:hover{
     color: lightgray;
 }
+
+/* slidebar */
+
+.slidebar{
+    background: #EFEFEF;
+    padding: 25px 30px;
+    margin-top: 35px;
+}
+.slidebar a{
+    color: dimgray;
+    font-size: 13px;
+    font-weight: bold;
+    text-decoration:none;
+}
+.slidebar a:hover{
+    color: #000;
+}

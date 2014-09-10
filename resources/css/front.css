@@ -90,7 +90,7 @@ fieldset div.banner-signup {
 
 .content-1{
     float: left;
-    width: 40%;
+    width: 45%;
 }
 
 .content-2{
@@ -99,15 +99,18 @@ fieldset div.banner-signup {
 }
 
 desc{
-    margin-left: 52px;
-    font-size: 10px;
-    color: gray;
+    font-size: 12px;
+    color: #575757;
 }
 .content-3{
     float: left;
-    width: 30%;
+    width: 25%;
 }
 .p-title{
     color: #313131;
     font-weight: bold;
+}
+.table-desc td{
+    padding-top: 8px;
+
 }

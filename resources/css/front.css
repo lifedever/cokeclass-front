@@ -2,6 +2,12 @@
 .color-blue{
     color: #58B6E9;
 }
+.bordered{
+    border: 1px solid lightgray;
+}
+.color-red {
+    color: #FC6E6C;
+}
 
 .bg-color-blue {
     background: #58B6E9;
@@ -28,6 +34,9 @@
 }
 .margin50-t {
     margin-top: 50px;
+}
+.margin50-b {
+    margin-bottom: 50px;
 }
 
 .shadow{

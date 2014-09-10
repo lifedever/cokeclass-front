@@ -1,3 +1,4 @@
+/* banner */
 fieldset {
     padding: 8px 12px;
     float: left;
@@ -68,49 +69,123 @@ fieldset div.banner-signup {
     box-shadow: 0px 0px 10px #000;
 }
 
-.content{
+/*content*/
+
+.content {
     margin-top: 30px;
     height: 280px;
     border-bottom: 1px solid lightgray;
 }
 
-.content a{
+.content a {
     color: gray;
 }
 
-.content h4{
+.content h4 {
     font-weight: bold;
 }
 
-
-
-.content-more{
-    height: 340px;
+.content-more {
+    margin-bottom: 100px;
 }
 
-.content-1{
+.content-1 {
     float: left;
     width: 45%;
 }
 
-.content-2{
+.content-2 {
     float: left;
     width: 30%;
 }
 
-desc{
+desc {
     font-size: 12px;
     color: #575757;
 }
-.content-3{
+
+.content-3 {
     float: left;
     width: 25%;
 }
-.p-title{
+
+.p-title {
     color: #313131;
     font-weight: bold;
 }
-.table-desc td{
+
+.table-desc td {
     padding-top: 8px;
 
+}
+
+/**content more**/
+.content-more-part {
+    margin-top: 40px;
+    float: left;
+    width: 50%;
+}
+
+.content-more-part h5 {
+    font-size: 18px;
+    font-weight: bold;
+    margin-right: 50px;
+    float: left;
+}
+
+a.link-more {
+    color: gray;
+}
+
+.part-left{
+    width: 40%;
+    float: left;
+    margin-right: 20px;
+}
+.part-left img{
+    height: 150px;
+}
+
+.part-rigth{
+    width: 25%;
+    float: left;
+    margin-right: 20px;
+}
+.part-rigth img{
+    height: 150px;
+}
+.clear-border {
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
+
+.clear-border-blue {
+    border: 1.5px solid #58b6e9;
+}
+
+.clear-border-red {
+    border: 1.5px solid #eb6161;
+}
+
+.footer{
+    height: 108px;
+    background: #424041;
+}
+
+.footer-menu{
+    margin-top: 50px;
+}
+
+.footer-menu p{
+    float: left;
+    margin-right: 80px;
+}
+
+.footer-menu p a{
+    color: #ffffff;
+    font-size: 10px;
+    text-decoration:none;
+}
+.footer-menu p a:hover{
+    color: lightgray;
 }
